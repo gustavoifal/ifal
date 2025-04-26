@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: large;
+    text-shadow: black;
+
+}
+h1{
+    text-align: center;
+    justify-content: center;
+}
+
+.texto  {
+    text-align: center;
+}
+.botao{
+
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #611111;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
